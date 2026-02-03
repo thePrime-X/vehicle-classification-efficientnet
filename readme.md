@@ -26,7 +26,6 @@ The model was trained on the **VTID2 Dataset** containing 4,801 images.
 1.  **Clone the repository**
     ```bash
     git clone [https://github.com/therprime-x/vehicle-classification-efficientnet.git](https://github.com/therprime-x/vehicle-classification-efficientnet.git)
-    cd vehicle-classification-efficientnet
     ```
 
 2.  **Install dependencies**
